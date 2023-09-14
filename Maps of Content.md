@@ -1,1 +1,0 @@
-Use of link instead of tags, in order to let notes organize themselfves and form map pf content, node linked to a lot of other notes 
