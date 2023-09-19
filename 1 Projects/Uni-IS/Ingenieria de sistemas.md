@@ -1,0 +1,2 @@
+* Todos los aspectos del desarrollos de sistemas basados en computadoras, tanto hardware como software
+* Al ser el software la parte más importante del sistema, las técnicas de [[Ingenieria de software]] se aplican en el proceso de ingeniero de sistema

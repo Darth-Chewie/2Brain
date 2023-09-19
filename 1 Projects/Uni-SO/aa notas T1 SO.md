@@ -1,0 +1,6 @@
+* ![[Modelo von Neumman]]
+* ![[Gestion de procesos]]
+* ![[Gestión de memoria]]
+* ![[Gestión de sistema de ficheros]]
+* ![[Gestion de E-S]]
+* ![[Capas a nivel SO]]

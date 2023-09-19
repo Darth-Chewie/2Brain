@@ -1,0 +1,18 @@
+{
+  "auto_generate_title": true,
+  "fleeting_notes_folder": "5-Inbox",
+  "attachments_folder": "",
+  "note_template": "---\n# Mandatory fields\nid: \"${id}\"\n# Optional fields\ntitle: \"${title}\"\ntags: ${tags}\nsource: \"${source}\"\nsource_title: \"${source_title}\"\nsource_description: \"${source_description}\"\nsource_image_url: \"${source_image_url}\"\ncreated_date: \"${created_date}\"\nmodified_date: \"${last_modified_date}\"\n---\n${content}",
+  "sync_on_startup": false,
+  "last_sync_time": "1970-01-01T00:00:00.000Z",
+  "sync_type": "one-way-delete",
+  "sync_obsidian_links": false,
+  "sync_obsidian_links_title": "Links from Obsidian",
+  "notes_filter": "",
+  "email": "j.dediegoguzman@gmail.com",
+  "password": "Javier00",
+  "supabaseId": "0df3d4d8-24e8-4629-8f8f-e3a374451c61",
+  "encryption_key": "",
+  "date_format": "YYYY-MM-DD",
+  "title_template": "${title}"
+}

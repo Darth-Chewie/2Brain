@@ -1,0 +1,1 @@
+* Garantiza que los individuos controlan que información puede ser recolectada y almacenada, por quien y a quién pueden dar esa información

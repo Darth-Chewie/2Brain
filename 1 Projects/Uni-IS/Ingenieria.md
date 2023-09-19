@@ -1,0 +1,1 @@
+Análisis, diseño, construcción y verificación de entidades técnicas y/o sociales

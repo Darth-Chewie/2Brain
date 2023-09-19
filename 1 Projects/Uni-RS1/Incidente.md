@@ -1,0 +1,1 @@
+* Cualquier evento que no sea parte la operación estándart de un servicio que ocasione, o pueda ocasionar, una interrupción o una reducción de la calidad de este servicio

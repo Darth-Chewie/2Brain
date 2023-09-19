@@ -1,0 +1,2 @@
+* Defecto o una debilidad de un sistema informático en su diseño, implementación, operación o gestión que puede ser utilizada para violar la política de seguridad del sistema y causar daño
+* No sicnifica que se produzaca daño en el equipo de forma automática

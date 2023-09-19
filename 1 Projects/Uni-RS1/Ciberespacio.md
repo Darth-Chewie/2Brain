@@ -1,0 +1,2 @@
+* Nombre por el que se designa el dominio global y dinámico compuestro por las infraestructuras de la tecnología e información (Internet, redes y sistemas de información y configuraciones): Estrategia de ciberseguridad nacional 2013
+* Espacion virtual que engloba todos los sistemas TIC que están enlazados a nivel de datos en una escala global

@@ -1,0 +1,1 @@
+Una entidad se hace pasar por otra (secuestro de sesión)

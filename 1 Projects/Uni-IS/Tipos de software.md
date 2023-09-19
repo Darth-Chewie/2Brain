@@ -1,0 +1,7 @@
+* [[Software de sistemas]]
+* [[Software emptrado]]
+* [[Software de gestión]]
+* [[Software de inteligencia artificial]]
+* [[Software de PC]]
+* [[Software en móviles]]
+* [[Software de Ingeniería y científico]]

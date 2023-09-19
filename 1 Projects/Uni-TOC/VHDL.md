@@ -1,0 +1,1 @@
+VHDL has a stricter and more formal syntax than [[VHDL]], forcing you to declare the type, range, and direction of every signal and variable. It is more reliable and robust, especially if you have a background in Ada or other strongly typed languages

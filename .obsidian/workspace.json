@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "deeca7d64f2c6d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0662aec56e5c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "059809c4fde0f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1 Projects/Uni-IS/z T2.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "112e3794ece9cae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d32f8a2cb59c09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Uni-IS/aa Notas T2 IS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "441b566ad211b440",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a2dcd096f988f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bff3f212cecb02b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb739102f6a00e90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ae3947440816ee1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5086555480957
+  },
+  "right": {
+    "id": "94d16c3252305520",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ab0478c06738cb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb58c970b3151552",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Projects/Uni-IS/z T2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dcdb98f3761ace6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Projects/Uni-IS/z T2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0360e1a6aa80d3d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2dc1b060cfa4d7db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Projects/Uni-IS/z T2.pdf"
+              }
+            }
+          },
+          {
+            "id": "bd793ec5224a817c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "059809c4fde0f5f8",
+  "lastOpenFiles": [
+    "1 Projects/Uni-IS/aa Notas T2 IS.md",
+    "1 Projects/Uni-IS/z T2.pdf",
+    "1 Projects/Uni-IS/Fase de mantenimiento.md",
+    "1 Projects/Uni-IS/Fase de desarrollo.md",
+    "1 Projects/Uni-IS/Diseño.md",
+    "1 Projects/Uni-IS/Fase de definición.md",
+    "1 Projects/Uni-IS/Objetivos IS.md",
+    "1 Projects/Uni-IS/Ingenieria de software.md",
+    "1 Projects/Uni-IS/Fases IS.md",
+    "1 Projects/Uni-IS/Capas IS.md",
+    "1 Projects/Uni-IS/Def IS.md",
+    "1 Projects/Uni-IS/Consideraciones ingenieria.md",
+    "1 Projects/Uni-IS/Consideraciones IS.md",
+    "1 Projects/Uni-IS/aa Notas T1 IS.md",
+    "1 Projects/Uni-IS/Proceso (IS).md",
+    "1 Projects/Uni-IS/IS.md",
+    "1 Projects/Uni-IS/Conceptos clave del proceso IS.md",
+    "1 Projects/Uni-IS/Aspectos a considerar en ingenieria.md",
+    "1 Projects/Uni-RS1/aa Notas T2 RS1.md",
+    "1 Projects/Uni-SO/aa notas T1 SO.md",
+    "1 Projects/Uni-Redes/aa Notas T1 Redes.md",
+    "1 Projects/Uni-A1/aa Notas Mod 1.md",
+    "1 Projects/Uni-SO/Proceso(SO).md",
+    "1 Projects/Uni-IS/Personas.md",
+    "1 Projects/Uni-IS/Ingenieria.md",
+    "1 Projects/Uni-IS/Codigo ACM-IEEE.md",
+    "1 Projects/Uni-IS/z T1.pdf",
+    "3 Resources/Imgs/Pasted image 20230918174610.png",
+    "1 Projects/Uni-TOC/TOC_Ejercicios_Tema_1.pdf",
+    "1 Projects/Uni-TOC/TOC_Ejercicios_Tema_1.pdf.crdownload",
+    "1 Projects/Uni-A1/zz Modulo 1.pdf",
+    "ISO",
+    "1 Projects/Uni-A1/Modulo 1.pdf.crdownload",
+    "1 Projects/Uni-A1",
+    "1 Projects/Uni-SO/Introduccion_SSOO.pdf",
+    "E",
+    "3 Resources/Imgs/Pasted image 20230918162248.png",
+    "3 Resources/Imgs/Pasted image 20230918153657.png",
+    "3 Resources/Imgs/Pasted image 20230918154731.png"
+  ]
+}

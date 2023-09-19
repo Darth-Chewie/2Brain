@@ -1,3 +1,10 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "3 Resources/Imgs",
+  "vimMode": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": null
 }
