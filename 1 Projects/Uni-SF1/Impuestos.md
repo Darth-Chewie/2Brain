@@ -1,0 +1,9 @@
+- mpuesto **directos**:  
+	- gravan una manifestación directa de la capacidad de pago(renta, patrimonio)
+	- relación directa entre el contribuyente y laadministración
+- Impuestos **Indirectos**
+	- gravan los usos de la renta, el consumo de bienes yservicios o la transmisión de riquez
+- Impuesto **personales**:  
+	- aquellos que se adaptan a la capacidad de pago del contribuyente según sus condiciones personales
+- Impuestos **reales**
+	- recaen sobre un hecho real sin tener en cuenta las circunstancias del contribuyente

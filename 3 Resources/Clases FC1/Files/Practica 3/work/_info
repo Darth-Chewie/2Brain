@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eand2
+Z0 w1610962450
+Z1 dC:/Universidad/FC I/Practica 3
+Z2 8C:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd
+Z3 FC:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd
+l0
+L34
+VKAmU9<jaa<baEk:zV23Tg1
+!s100 VRD7]KF<`aH8[@2lzo5R<2
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1610962454
+!i10b 1
+Z6 !s108 1610962454.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd|
+Z8 !s107 C:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Acomportamiento
+Z11 DEx4 work 4 and2 0 22 KAmU9<jaa<baEk:zV23Tg1
+l39
+L37
+Z12 Vd@g0KWUUb_bbh2k3HmD_n3
+Z13 !s100 4kOnW1;Kz?jD2dhB;2Q8I0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eand3
+R0
+R1
+R2
+R3
+l0
+L25
+VPGR>W<2LO]03OYIMUSn[[3
+!s100 M7iTm]KFE455=CUMc2OjB0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z14 DEx4 work 4 and3 0 22 PGR>W<2LO]03OYIMUSn[[3
+l29
+L28
+Z15 Vb;IYo?[^ebFIBhjN8jQAa3
+Z16 !s100 bMgd9PCU3mGdd>>F_F@h83
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Effd
+R0
+R1
+R2
+R3
+l0
+L1
+VOfML2``W8=HA7Oe04a[mO1
+!s100 5OF>hIB^QM]loMUz4RoP`3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z17 DEx4 work 3 ffd 0 22 OfML2``W8=HA7Oe04a[mO1
+l11
+L10
+Z18 VEAB[4f`_cXCDEbGQCzP8]0
+Z19 !s100 P;Pij5[01OEh:jmN20foz2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Einv
+R0
+R1
+R2
+R3
+l0
+L53
+V9fdR4m]>Hnz6Ka9kKH35o1
+!s100 9Zd3dNQ_zP1:OXSZ>__LB1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z20 DEx4 work 3 inv 0 22 9fdR4m]>Hnz6Ka9kKH35o1
+l57
+L56
+Z21 Ve?]BmdASN>JO=EnFS<@nJ3
+Z22 !s100 ?bLe=8:lgfU1_kW<LNeXm2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor2
+R0
+R1
+R2
+R3
+l0
+L43
+VKITdA?8ZO]0>4XeOD2Z`A1
+!s100 PW`bK3W4CaMXM>_7k6_P]1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z23 DEx4 work 3 or2 0 22 KITdA?8ZO]0>4XeOD2Z`A1
+l47
+L46
+Z24 V`;Jb8O5>f>O7`ZWSjC5dh0
+Z25 !s100 XER:VC>>W?Og7DF<[Tz2b1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Ereconocedor
+R0
+R1
+R2
+R3
+l0
+L65
+VR4m5_2>CnNIYLBH]RgE5Z0
+!s100 dzQ7>NE`3V@@@@KK:c6cj1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aestructural
+DEx4 work 11 reconocedor 0 22 R4m5_2>CnNIYLBH]RgE5Z0
+l97
+L69
+V1dzAWei@b=oCKYl;SQggk3
+!s100 zE2;2zBnR@NWlzke=NVV00
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

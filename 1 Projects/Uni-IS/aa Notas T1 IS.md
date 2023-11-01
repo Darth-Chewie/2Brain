@@ -13,3 +13,4 @@ source: "[[z T1.pdf]]"
 	* Derechos de propiedad intelectual
 	* Mal uso de los sistemas
 * ![[Codigo ACM-IEEE|Codigo ACM/IEEE]]
+prueba auditoria :: respuesta

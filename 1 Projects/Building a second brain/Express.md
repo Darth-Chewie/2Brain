@@ -1,1 +1,0 @@
-* Don't take the work of others wholesale,  borrow aspects or parts of their work

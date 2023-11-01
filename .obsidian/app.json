@@ -6,5 +6,11 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

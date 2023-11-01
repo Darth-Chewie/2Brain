@@ -1,0 +1,150 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Universidad/FC I/Practica 1
+Eand4
+Z1 w1611013543
+R0
+Z2 8C:/Universidad/FC I/Practica 1/multiplexor4a1.vhd
+Z3 FC:/Universidad/FC I/Practica 1/multiplexor4a1.vhd
+l0
+L15
+V;ZY8cd8<YRU8?5A?81:882
+!s100 ?^X8VTDEfEIm2DQGPggFd0
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1611014198
+!i10b 1
+Z6 !s108 1611014198.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Universidad/FC I/Practica 1/multiplexor4a1.vhd|
+Z8 !s107 C:/Universidad/FC I/Practica 1/multiplexor4a1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Acomportamiento
+DEx4 work 4 and4 0 22 ;ZY8cd8<YRU8?5A?81:882
+l20
+L19
+Vb9h7[aenURUJF>FoLfFVG1
+!s100 XM2inWQe;22E`Hj0gT_NF3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Einv
+R1
+R0
+R2
+R3
+l0
+L25
+VM^KiW0eV4MzIK`HjOm3Ln2
+!s100 Z1WadA]5BVnEGQ;:VEPoK2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+DEx4 work 3 inv 0 22 M^KiW0eV4MzIK`HjOm3Ln2
+l30
+L29
+V^f7^U03nBX^FBNbj<UjYX3
+!s100 z?Tm4ZWbGEWnS9Fen7=5i2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Emultiplexor4a1
+R1
+R0
+R2
+R3
+l0
+L36
+V:<5Qh[a5Qh?j8[Qi>=KDL3
+!s100 :YSS5C6nQ6[2jez41hF0T3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Apuertas
+DEx4 work 14 multiplexor4a1 0 22 :<5Qh[a5Qh?j8[Qi>=KDL3
+l58
+L43
+V;0ER?FVA?bmmTGA:DE:m73
+!s100 `Y5he9k@WdLM>^GJo:g]71
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor4
+R1
+R0
+R2
+R3
+l0
+L5
+V6ia`5fz]zD68RP`P9i]3U0
+!s100 kFQ=l^OaVkK0g>RKRYW@01
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+DEx4 work 3 or4 0 22 6ia`5fz]zD68RP`P9i]3U0
+l10
+L9
+VKT87SzGoTK_VDhfo`gc>^1
+!s100 o7[;;ne1CZ4KFNSS_ePl10
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

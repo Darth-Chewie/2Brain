@@ -1,0 +1,27 @@
+{C:/Universidad/FC I/Practica 1/multiplexor4a1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Universidad/FC I/Practica 1/multiplexor4a1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity or4
+-- Compiling architecture comportamiento of or4
+-- Compiling entity and4
+-- Compiling architecture comportamiento of and4
+-- Compiling entity inv
+-- Compiling architecture comportamiento of inv
+-- Compiling entity multiplexor4a1
+-- Compiling architecture puertas of multiplexor4a1
+
+} {} {}} {C:/Universidad/FC I/Practica 1/multiplexor4a1_vec_plantilla.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Universidad/FC I/Practica 1/multiplexor4a1_vec_plantilla.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity or4
+-- Compiling architecture comportamiento of or4
+-- Compiling entity and4
+-- Compiling architecture comportamiento of and4
+-- Compiling entity inv
+-- Compiling architecture comportamiento of inv
+-- Compiling entity multiplexor4a1
+-- Compiling architecture puertas of multiplexor4a1
+-- Compiling entity multiplexor4a1_vec
+-- Compiling architecture puertas of multiplexor4a1_vec
+
+} {} {}}

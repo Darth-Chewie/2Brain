@@ -9,4 +9,9 @@ source: "[[z T2.pdf]]"
 * ![[Fases IS]]
 * ![[Fase de definición]]
 * ![[Fase de desarrollo]]
-* ![[Fase de mantenimiento]]* 
+* ![[Fase de mantenimiento]]* ![[Fases de proceso de software]]
+* ![[Actividades de soporte]]
+* ![[Proceso del software]]
+* ![[Modelos de proceso]]
+*  ![[Modelo en cascada]]* ![[Prototipado]]
+* ![[Modelos evolutivos]]

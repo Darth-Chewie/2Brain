@@ -1,0 +1,1 @@
+Conjunto de particiones de discos que pueden ser tratados por el [[SO]] como una única entidad lógica 

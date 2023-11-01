@@ -1,0 +1,1 @@
+* [[Ancho de banda de un canal de transmisión]]

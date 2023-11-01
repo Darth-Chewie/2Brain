@@ -1,0 +1,1 @@
+diferencia entre la frecuencia más alta y la frecuencia más baja contenida en la señal (puede ser infinito)

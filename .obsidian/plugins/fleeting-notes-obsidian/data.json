@@ -9,9 +9,6 @@
   "sync_obsidian_links": false,
   "sync_obsidian_links_title": "Links from Obsidian",
   "notes_filter": "",
-  "email": "j.dediegoguzman@gmail.com",
-  "password": "Javier00",
-  "supabaseId": "0df3d4d8-24e8-4629-8f8f-e3a374451c61",
   "encryption_key": "",
   "date_format": "YYYY-MM-DD",
   "title_template": "${title}"

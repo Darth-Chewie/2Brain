@@ -23,3 +23,4 @@ source: "[[zz Modulo 1.pdf]]"
 		* Sistema de gestión implantado y funcionando y hay evidencias que lo demuestran
 	* Rellenar con las diapos 35-37
 * ![[ISO-IEC 17021|ISO/IE]]* ![[ISO-IEC 27006|ISO/IEC 27006]]
+Source: [[zz Modulo 1.pdf]]

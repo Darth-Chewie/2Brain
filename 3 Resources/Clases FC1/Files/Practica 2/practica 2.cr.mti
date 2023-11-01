@@ -1,0 +1,27 @@
+{C:/Universidad/FC I/Practica 2/full_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Universidad/FC I/Practica 2/full_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity or2
+-- Compiling architecture comportamiento of or2
+-- Compiling entity and2
+-- Compiling architecture comportamiento of and2
+-- Compiling entity xor2
+-- Compiling architecture comportamiento of xor2
+-- Compiling entity full_adder
+-- Compiling architecture puertas of full_adder
+
+} {} {}} {C:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity or2
+-- Compiling architecture comportamiento of or2
+-- Compiling entity and2
+-- Compiling architecture comportamiento of and2
+-- Compiling entity xor2
+-- Compiling architecture comportamiento of xor2
+-- Compiling entity full_adder
+-- Compiling architecture puertas of full_adder
+-- Compiling entity full_adder2
+-- Compiling architecture estructura of full_adder2
+
+} {} {}}

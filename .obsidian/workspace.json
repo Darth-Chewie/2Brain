@@ -4,32 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "be0662aec56e5c62",
+        "id": "5d3cf3ac711a3f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "059809c4fde0f5f8",
+            "id": "3c44f1a16409270f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1 Projects/Uni-IS/z T2.pdf"
+                "file": "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "112e3794ece9cae8",
+        "id": "28c69fc10b169131",
         "type": "tabs",
         "children": [
           {
-            "id": "1d32f8a2cb59c09c",
+            "id": "fbc92a7756ecabbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Uni-IS/aa Notas T2 IS.md",
+                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,12 +49,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fb739102f6a00e90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "bff3f212cecb02b5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "FC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,20 +72,12 @@
             }
           },
           {
-            "id": "fb739102f6a00e90",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ae3947440816ee1",
+            "id": "0b0dcd4a0d22ce6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5086555480957
+    "width": 380.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "94d16c3252305520",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Uni-IS/z T2.pdf",
+                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/Uni-IS/z T2.pdf",
+                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/Uni-IS/z T2.pdf"
+                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md"
               }
             }
           },
@@ -158,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,49 +170,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "059809c4fde0f5f8",
+  "active": "fbc92a7756ecabbe",
   "lastOpenFiles": [
-    "1 Projects/Uni-IS/aa Notas T2 IS.md",
-    "1 Projects/Uni-IS/z T2.pdf",
-    "1 Projects/Uni-IS/Fase de mantenimiento.md",
-    "1 Projects/Uni-IS/Fase de desarrollo.md",
-    "1 Projects/Uni-IS/Diseño.md",
-    "1 Projects/Uni-IS/Fase de definición.md",
-    "1 Projects/Uni-IS/Objetivos IS.md",
-    "1 Projects/Uni-IS/Ingenieria de software.md",
-    "1 Projects/Uni-IS/Fases IS.md",
-    "1 Projects/Uni-IS/Capas IS.md",
-    "1 Projects/Uni-IS/Def IS.md",
-    "1 Projects/Uni-IS/Consideraciones ingenieria.md",
-    "1 Projects/Uni-IS/Consideraciones IS.md",
-    "1 Projects/Uni-IS/aa Notas T1 IS.md",
-    "1 Projects/Uni-IS/Proceso (IS).md",
-    "1 Projects/Uni-IS/IS.md",
-    "1 Projects/Uni-IS/Conceptos clave del proceso IS.md",
-    "1 Projects/Uni-IS/Aspectos a considerar en ingenieria.md",
-    "1 Projects/Uni-RS1/aa Notas T2 RS1.md",
-    "1 Projects/Uni-SO/aa notas T1 SO.md",
-    "1 Projects/Uni-Redes/aa Notas T1 Redes.md",
-    "1 Projects/Uni-A1/aa Notas Mod 1.md",
-    "1 Projects/Uni-SO/Proceso(SO).md",
-    "1 Projects/Uni-IS/Personas.md",
-    "1 Projects/Uni-IS/Ingenieria.md",
-    "1 Projects/Uni-IS/Codigo ACM-IEEE.md",
-    "1 Projects/Uni-IS/z T1.pdf",
-    "3 Resources/Imgs/Pasted image 20230918174610.png",
-    "1 Projects/Uni-TOC/TOC_Ejercicios_Tema_1.pdf",
-    "1 Projects/Uni-TOC/TOC_Ejercicios_Tema_1.pdf.crdownload",
-    "1 Projects/Uni-A1/zz Modulo 1.pdf",
-    "ISO",
-    "1 Projects/Uni-A1/Modulo 1.pdf.crdownload",
-    "1 Projects/Uni-A1",
-    "1 Projects/Uni-SO/Introduccion_SSOO.pdf",
-    "E",
-    "3 Resources/Imgs/Pasted image 20230918162248.png",
-    "3 Resources/Imgs/Pasted image 20230918153657.png",
-    "3 Resources/Imgs/Pasted image 20230918154731.png"
+    "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf",
+    "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
+    "3 Resources/Clases FC1/Apuntes FC1.md",
+    "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf.crdownload",
+    "1 Projects/Uni-SO/Files/mod2/Sistema_Ficheros.pdf",
+    "1 Projects/Uni-SO/Files/mod3/Com_Sincro.pdf",
+    "1 Projects/Uni-SO/Files/mod2/Ficheros.pdf",
+    "1 Projects/Uni-SO/Notas gestión de procesos.md",
+    "1 Projects/Uni-SO/Mecanismos de sincronización.md",
+    "1 Projects/Uni-SO/FIFO.md",
+    "1 Projects/Uni-SO/Servicios del SO.md",
+    "1 Projects/Uni-SO/Mecanismos de comunicación.md",
+    "1 Projects/Uni-SO/Mecanismos de C&S.md",
+    "1 Projects/Uni-SO/Tareas concurrentes.md",
+    "1 Projects/Uni-SO/Servicios POSIX para hilos.md",
+    "1 Projects/Uni-SO/Files/mod3/Planficacion.pdf",
+    "1 Projects/Uni-SO/Notas/Notas Procesos Hilos.md",
+    "1 Projects/Uni-SO/Files/mod3/Procesos_Hilos.pdf",
+    "1 Projects/Uni-SO/Consideraciones para el uso de hilos.md",
+    "1 Projects/Uni-SO/Venajas del uso de hilos.md",
+    "1 Projects/Uni-SO/Hilos.md",
+    "1 Projects/Uni-SO/Grupos de procesos.md",
+    "1 Projects/Uni-SO/Sesiones.md",
+    "1 Projects/Uni-SO/Jerarquia de procesos Linux(Unix).md",
+    "1 Projects/Uni-SO/Linux.md",
+    "1 Projects/Uni-SO/Unix.md",
+    "1 Projects/Uni-SO/Exit.md",
+    "1 Projects/Uni-SO/Wait.md",
+    "1 Projects/Uni-SO/Exec.md",
+    "1 Projects/Uni-SO/Fork.md",
+    "1 Projects/Uni-SO/Servicios POSIX.md",
+    "1 Projects/Uni-SO/Cambio de programa.md",
+    "3 Resources/Imgs/Pasted image 20231028175546.png",
+    "3 Resources/Imgs/Pasted image 20231028175438.png",
+    "1 Projects/Uni-SO/Bloques indexados tipo UNIX.png",
+    "1 Projects/Uni-SO/Files/entorno.pdf",
+    "1 Projects/Uni-SO/Files/make.pdf",
+    "3 Resources/Imgs/Pasted image 20231028101647.png",
+    "1 Projects/Uni-SO/Files/mod2/Ficheros.pdf.crdownload",
+    "3 Resources/Imgs/Pasted image 20230930112634.png",
+    "3 Resources/Imgs/Pasted image 20230929164932.png",
+    "3 Resources/Imgs/Pasted image 20230929164647.png",
+    "3 Resources/Imgs/Pasted image 20230929162854.png",
+    "3 Resources/Imgs/Pasted image 20230929122327.png",
+    "3 Resources/Imgs/Pasted image 20230929122154.png"
   ]
 }

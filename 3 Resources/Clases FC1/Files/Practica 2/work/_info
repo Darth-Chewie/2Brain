@@ -1,0 +1,185 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Universidad/FC I/Practica 1
+Eand2
+Z0 w1611060755
+Z1 dC:/Universidad/FC I/Practica 2
+Z2 8C:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd
+Z3 FC:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd
+l0
+L14
+VEl_dg?io030zk8Ooebn[Z3
+!s100 gk4jh`eg2:z<4ZF>OKW002
+Z4 OP;C;10.4a;61
+32
+Z5 !s110 1611060760
+!i10b 1
+Z6 !s108 1611060760.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd|
+Z8 !s107 C:/Universidad/FC I/Practica 2/full_adder2_plantilla.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+Acomportamiento
+Z11 DEx4 work 4 and2 0 22 El_dg?io030zk8Ooebn[Z3
+l19
+L18
+Z12 VICdjJebziGQ^]:a>2O^gl1
+Z13 !s100 7=VQ:O04c6DdnZ4bUE`k`0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Efull_adder
+R0
+R1
+R2
+R3
+l0
+L35
+VcbldZ0zS6lRlakD?6[^232
+!s100 dUBJKei^VER@8Pm8BPHbf3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Apuertas
+Z14 DEx4 work 10 full_adder 0 22 cbldZ0zS6lRlakD?6[^232
+l57
+L40
+Z15 VDVcP5VCM3@a6Jjc4b;QQc2
+Z16 !s100 @i6YT>i9f70M_da4bUN=P2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Efull_adder2
+R0
+R1
+R2
+R3
+l0
+L71
+VY8JRznIWFSXgk[Wg1L[UY1
+!s100 iJ?JG`L>Vi2e84a]YajLU2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Aestructura
+DEx4 work 11 full_adder2 0 22 Y8JRznIWFSXgk[Wg1L[UY1
+l89
+L76
+V`7a_k`[?hgm1[]F:l^m]K3
+!s100 UC4bNzf3lKTH[YR0N;B8g3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eor2
+R0
+R1
+R2
+R3
+l0
+L5
+V=Kak>0BVZgd[Q3>gMVK;W2
+!s100 SO2KGDFa7jF_UXXX8`jY13
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z17 DEx4 work 3 or2 0 22 =Kak>0BVZgd[Q3>gMVK;W2
+l10
+L9
+Z18 V;dViRB@R4XG67M[]8Q78`2
+Z19 !s100 V:@2^3O@zQ52TYg6WIjHk3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Exor2
+R0
+R1
+R2
+R3
+l0
+L23
+VU;3U>>8HM9n`Z_7iGoSa]2
+!s100 ;LMO5oRfo^QXkPbNLCcJH1
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Acomportamiento
+Z20 DEx4 work 4 xor2 0 22 U;3U>>8HM9n`Z_7iGoSa]2
+l28
+L27
+Z21 V<Ije`5L_DaY;HK:==FSa?1
+Z22 !s100 m]Oh2UH8Z4k3kGg5bJAmD0
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10

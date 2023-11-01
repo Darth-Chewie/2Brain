@@ -1,0 +1,17 @@
+{C:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Universidad/FC I/Practica 3/reconocedor_alumnos.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity ffd
+-- Compiling architecture comportamiento of ffd
+-- Compiling entity and3
+-- Compiling architecture comportamiento of and3
+-- Compiling entity and2
+-- Compiling architecture comportamiento of and2
+-- Compiling entity or2
+-- Compiling architecture comportamiento of or2
+-- Compiling entity inv
+-- Compiling architecture comportamiento of inv
+-- Compiling entity reconocedor
+-- Compiling architecture estructural of reconocedor
+
+} {} {}}

@@ -1,0 +1,146 @@
+- MARCO CONCEPTUAL DE LA CONTABILIDAD
+- 1.º   Cuentas anuales. Imagen fiel.
+- Las cuentas anuales de una empresa comprenden el balance, la cuenta de pérdidas yganancias, el estado de cambios en el patrimonio neto, el estado de flujos de efectivo y lamemoria
+- do de flujos de efectivo y lamemoria. Estos documentos forman una unidad. No obstante, el estado de cambios en elpatrimonio neto y el estado de flujos de efectivo no serán obligatorios para las empresas quepuedan formular balance y memoria abreviados
+- incluidos en los apartadosimagen fiel del patrimonio
+- dos de la empresa. A talefecto, en la contabilizarealidad económica y nosólo a su forma jurídica.
+- 2.º   Requisitos de la información a incluir en las cuentas anuales.
+- La información incluida en las cuentas anuales debe ser relevante y fiable.
+- ncluida en las cuentas anuales debe ser relevante y fiable.es relevante cuando es útil para la toma de decisiones económicas
+- es fiable cuando está libre de errores materiales
+- neutral,
+- La información esestá libre de sesgos
+- integridad,
+- Una cualidad derivada decuando lainformación financiera contiene
+- integridad, quetodos los datos
+- ación financiercomparabilidad,
+- s de diferentes emp resas en el mismomomento y para el mismo debe permitir contrastar la situación yrentabilidad de las empresas
+- 3.º   Principios contables.
+- special, el registro y la valoración de los elementosde las cuentas anuales, se deaplicando obligatoriamente los principios contablesque se indican a continuación:
+- 1. Empresa en funcionamiento
+- formación si2. Devengo.
+- nificativa sobre los criterios aplicados.2. DevengoLos efectos de las transacciones o hechos económicos se registraráncuando ocurran
+- registraráncuando ocurran, imputándose al ejercicio al que las cuentas anuales se refieran, los gastos ylos ingresos que afecten al mismo, con independencia de la fecha de su pago o de su cobro.
+- ingresos que af3. Uniformidad
+- 4. Prudencia. Se deberá ser prudente en las estimaciones y valoraciones a realizar encondiciones de incertidumbre
+-  no justifica que la valoración de los elementospatrimoniales no responda a la imagen fiel
+-  se contabilizarán los beneficios obtenidos hasta la fecha de cierre del ejercicio
+- se deberán tener en cuenta todos los riesgos, con origen en el ejercicio o enotro anterior, tan pronto sean conocidos
+- 5. No compensación
+-  nopodrán compensarse las partidas del activo y del pasivo o las de gastos e ingresos
+- 6. Importancia relativa
+- Se admitirá la no aplicación estricta de algunos de los principios ycriterios contables cuando la importancia relativa en términos cuantitativos o cualitativos dela variación que tal hecho produzca sea escasamente significativa y
+-  noaltere la expresión de la imagen fiel
+- 4.º   Elementos de las cuentas anuales.
+- 1. Activos: bienes, derechos y otros recursos controlados económicamente por laempresa, resultantes de sucesos pasados, de los que se espera que la empresa obtengabeneficios o rendimientos económicos en el futuro
+- 2. Pasivos: obligaciones actuales surgidas como consecuencia de sucesos pasados,para cuya extinción la empresa espera desprenderse de recursos que puedan producirbeneficios o rendimientos económicos en el futuro. A estos efectos, se entienden incluidaslas provisiones.
+- 3. Patrimonio neto: constituye la parte residual de los activos de la empresa, una vezdeducidos todos sus pasivos
+- Los elementos que, cuando cumplan los criterios de reconocimiento
+-  se registran en la cuenta de pérdidas y ganancias o,
+-  en el estado de cambios en el patrimonio neto, son:
+- 4. Ingresos: incrementos en el patrimonio neto
+- ya sea
+-  aumentos en el valor de los activos
+- o de disminución de los pasivos
+- siempre que no tengan su origen en aportaciones
+- de los socios
+- 5. Gastos: decrementos en el patrimonio neto
+- ya sea
+-  disminuciones en el valor de los activos, o
+- aumento del valor de los pasivos
+- siempre que no tengan su origen en distribuciones
+-  a los socios
+- Los ingresos y gastos del ejercicio se imputarán a la cuenta de pérdidas y ganancias yformarán parte del resultado
+- 5.º   Criterios de registro o reconocimiento contable de los elementos de las cuentas anuales.
+- es el proceso por el que se incorporan al balance,la cuenta de pérdidas y ganancias o el estado de cambios en el patrimonio neto, losdiferentes elementos de las cuentas anuales, de acuerdo con lo dispuesto en las normas de
+- registro relativas a cada uno de ellos, incluidas en la segunda parte de este Plan General deContabilidad.
+-  procederá cuando, cumpliéndose la definición de los mismos
+-  se cumplan los criterios de probabilidad en la obtención ocesión de recursos que incorporen beneficios o rendimientos económicos
+- su valor puedadeterminarse con un adecuado grado de fiabilidad
+- La valoración es el proceso por el que se asigna un valor monetario a cada uno de loselementos integrantes de las cuentas anuales
+- de acuerdo con
+- las normas devaloración relativas
+-  incluidas en
+- este Plan Generalde Contabilidad.
+- 1. Coste histórico o coste
+- es su precio de adquisición o coste de producción
+- El coste de producción incluye el precio
+- de las materias primas y
+- consumibles
+- de los factores de producción
+-  y
+-  los costes de producción
+- El coste histórico
+- es el valor que corresponda a la contrapartidarecibida a cambio de incurrir en la deuda
+- 2. Valor razonable
+- Es el precio que se recibiría por la venta de un activo o
+-  transferir ocancelar un pasivo mediante una transacción
+-  se determinará sin practicar ninguna deducción porlos costes de transacción
+- No tendrá en ningún caso el carácter de valor razonable el que searesultado de una transacción forzada, urgente
+- se estima para una determinada fecha y,
+- las condicionesdel activo o pasivo que los participantes en el mercado
+- Dichas condiciones
+- incluyen
+- a) El estado de conservación y la ubicación, y
+- b) Las restricciones, si las hubiere, sobre la venta o el uso del activo.
+- En la estimación
+- se asumirá
+- que la transacción
+- se lleva a cabo
+-  Entre partes interesadas y debidamente informadas
+-  En el mercado principal del activo o pasivo
+-  en el mercado más ventajoso al que tengaacceso la empresa
+- Si la localización es unacaracterística del activo
+-  el precio en el mercado principal
+-  se ajustará por los costes
+- el valor razonable se calculará por referencia a un valor fiable demercad
+-  entendiéndose por mercado activo aquél en el que se
+- s bienes o servicios 
+-  homogéneos
+-  Pueden encontrarse,
+- en cualquie
+- compradores yvendedores
+- Los precios son públicos
+- Para aquellos elementos
+- no exista un mercado activo
+-  se obtendrá
+- mediante la aplicación de modelos y técnicas devaloración
+- Valor neto realizable
+- el importe que la empresa puede obtener por suenajenación en el mercado
+-  deduciendo los costesestimados necesarios para llevarla a cabo
+- Valor actual
+- el importe de los flujos de efectivo a recibir o pagar en el curso normaldel negocio
+-  actualizados a untipo de descuento adecuado
+-  Valor en uso
+-  es el valor actual delos flujos de efectivo futuros esperados, a través de su utilización en el curso normal delnegocio
+-  teniendo en cuenta suestado actual y actualizados a un tipo de interés de mercado sin riesgo
+- Costes de venta
+-  los costes incrementales directamente atribuibles a la venta de un activo en los quela empresa no habría incurrido de no haber tomado la decisión de vender, excluidos losgastos financieros y los impuestos sobre beneficios
+-  Coste amortizado
+- importe al que inicialmente fuevalorado un activo
+- o
+- pasivo
+-  menos los reembolsos de principal quese hubieran producido
+-  más o menos
+- la parte imputada en la cuenta depérdidas y ganancias
+-  menos cualquier reducción de valor por deterioro
+- reconocida
+- Costes de transacción atribuibles a un activo o pasivo financiero
+- Son los costes incrementales directamente atribuibles a la compra, emisión, enajenaciónu otra forma de disposición de un activo financiero, o a la emisión o asunción de un pasivofinanciero, en los que no se habría incurrido si la empresa no hubiera realizado latransacción
+- . Valor contable o en libros
+- el importe neto por el que un activo o un pasivo seencuentra registrado en balance una vez deducida
+- suamortización acumulada 
+-  corrección valorativa por deterioro acumulada
+- . Valor residual
+- El valor residual de un activo es el importe que la empresa estima que podría obtener enel momento actual por su venta u otra forma de disposición
+-  deducidos los costes de
+- venta
+-    Principios y normas de contabilidad generalmente aceptados.
+- Se considerarán principios y normas de contabilidad generalmente aceptados losestablecidos en:
+- a) El Código de Comercio y la restante legislación mercantil.
+- b) El Plan General de Contabilidad y sus adaptaciones sectoriales.
+-  Las normas de desarrollo que, en materia contable, establezca en su caso el Institutode Contabilidad y Auditoría de Cuentas, 
+- d) la demás legislación española que sea específicamente aplicable.
+
+## Source
+[[BOE-A-2007-19884-consolidado.pdf]]

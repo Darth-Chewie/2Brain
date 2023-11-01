@@ -1,0 +1,1 @@
+ conjunto de componentes en frecuencia o armónicos que componen la señal

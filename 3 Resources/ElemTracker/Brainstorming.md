@@ -1,0 +1,6 @@
+Voy a intentar hacer una aplicación para gestión y digitalización de procesos complejos. La primera versión será capaz de rastrear el estado de los elementos a través de un camino de estados. Los estadon estarán definidos en un archivo de texto, que podrán ser customizados para adaptarse a diferentes ambientes y procesos. A través del flujo de estados pasarán los elementos, y se podrán tanto ver el elemento con su información y poder avanzarlo de estado a estado, o ver una lista de elementos en un estado determinado. La idea de esta primera versión es una sola aplicación en una sola máquina, pero diferenciando la parte de backend y front, para más adelante desarrollar un api y poder conectar varios dispositivos. Que piensas de la idea y la ejecución pensada para la primera versión
+
+Sugerencias gpt:
+* Asegúrate de que el formato del archivo de texto sea claro y fácil de editar para los usuarios. Puedes considerar el uso de un formato como JSON o YAML para facilitar la configuración.
+
+el c
