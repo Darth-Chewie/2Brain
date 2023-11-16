@@ -1,1 +1,0 @@
-Divición del sistema en subsistema + comunicación

@@ -1,1 +1,0 @@
-parte del ancho de banda donde se concentra la mayor parte de la energía de la señal (suele ser limitado)

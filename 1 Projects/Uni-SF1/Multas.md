@@ -1,1 +1,0 @@
-* Ingresos de carácter coactivo derivados de la penalización impuesta por infracciones

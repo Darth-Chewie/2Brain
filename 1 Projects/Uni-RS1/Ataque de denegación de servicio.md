@@ -1,1 +1,0 @@
-Impide el uso o gestión normal de redes o sistemas

@@ -1,1 +1,0 @@
-Evento o serie de eventos de seguridad de la información, inesperados o no deseados, que tienen una probabilidad sicnificativa de comprometer las operacioens del negocio y de amenazar la seguridad de la información

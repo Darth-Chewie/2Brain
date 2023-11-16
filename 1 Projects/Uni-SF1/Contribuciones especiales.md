@@ -1,2 +1,0 @@
-- Son ingresos coactivos procedentes del pago a favor del SP porparte de los ciudadanos como consecuencia de la realización de una obra pública que producen un beneficio directo en el patrimonio de los individuos
--  la diferencia con la tasa es que financian inversiones públicas y no gastos corrientes.

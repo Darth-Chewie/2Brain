@@ -1,0 +1,3 @@
+- Resultado de aplicar los tipos degravamen a la Base liquidable
+	- Líquida: Cuota íntegra – Deducciones
+	- Diferencial: Cuota líquida – deducciones - pagos a cuenta

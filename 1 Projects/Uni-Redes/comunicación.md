@@ -1,1 +1,0 @@
-Intercambio de información sobre cualquier medio

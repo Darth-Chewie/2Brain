@@ -1,3 +1,0 @@
-* ![[Confidentiality]]
-* ![[Integrity]]
-* ![[Availability]]

@@ -1,1 +1,0 @@
-Una vez creado el fichero sólo puede ser compartido para lectura y no cambia nunca

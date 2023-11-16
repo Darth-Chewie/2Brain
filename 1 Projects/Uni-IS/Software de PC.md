@@ -1,1 +1,0 @@
-* Procesadores de texto, hojas de cálculo, navegadores, etc.

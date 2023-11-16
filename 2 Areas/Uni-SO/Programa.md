@@ -1,0 +1,1 @@
+* Fichero ejecutable en disco

@@ -1,1 +1,0 @@
-Interconexión de un conjunto de [[dispositivos]] capaz de mantener una [[comunicación]]

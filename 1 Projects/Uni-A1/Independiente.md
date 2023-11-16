@@ -1,1 +1,0 @@
-Dicho de una persona que sostiene sus derechos y opiniones sin admitir intervención ajena

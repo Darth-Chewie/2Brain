@@ -1,1 +1,0 @@
-Permite la traducción de direcciones virtuales a direcciones físicas

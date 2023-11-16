@@ -1,2 +1,0 @@
-* Definene las reglas que ambos extremos deben seguir para comunicarse
-* Normalmente estas reglas se dividen en tareas a diferentes niveles [[Arquitectura en capas]] donde cada nivel usa un protocola especializado

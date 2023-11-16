@@ -1,1 +1,0 @@
-Software que se encarga de la gestión de bajo nivel de los dispositivos

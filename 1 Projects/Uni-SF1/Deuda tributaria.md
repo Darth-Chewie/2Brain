@@ -1,6 +1,0 @@
-- Deuda tributaria= Cuota diferencial + Recargos +intereses de demora
-- Recargos:
-	- por declaración extemporánea
-	- del periodo ejecutivo
-	- sobre bases o cuotas a favor del Tesoro
-- LAS SANCIONES NO FORMAN PARTE DE LA DEUDA

@@ -1,1 +1,0 @@
-Comprobar o examinar la verdad de algo

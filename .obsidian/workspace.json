@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d3cf3ac711a3f1e",
+        "id": "d63461bbf1de8600",
         "type": "tabs",
         "children": [
           {
-            "id": "3c44f1a16409270f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28c69fc10b169131",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbc92a7756ecabbe",
+            "id": "572f7dd694e5d0cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
+                "file": "1 Projects/PIKE/Notas MVP Pike.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FC",
+                "query": "distribución normal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +56,7 @@
             }
           },
           {
-            "id": "0b0dcd4a0d22ce6f",
+            "id": "963642638e53980d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,14 +64,23 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7cc8b777188f8bc6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 380.5026054382324,
-    "collapsed": true
+    "width": 455.5086555480957
   },
   "right": {
     "id": "94d16c3252305520",
@@ -103,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
+                "file": "1 Projects/PIKE/Notas MVP Pike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
+                "file": "1 Projects/PIKE/Notas MVP Pike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md"
+                "file": "1 Projects/PIKE/Notas MVP Pike.md"
               }
             }
           },
@@ -171,55 +164,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbc92a7756ecabbe",
+  "active": "572f7dd694e5d0cc",
   "lastOpenFiles": [
-    "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf",
-    "1 Projects/Uni-Estadísitca II/Apuntes T0 Estadística empresarial II.md",
-    "3 Resources/Clases FC1/Apuntes FC1.md",
-    "1 Projects/Uni-Estadísitca II/Files/Tema_0.pdf.crdownload",
-    "1 Projects/Uni-SO/Files/mod2/Sistema_Ficheros.pdf",
-    "1 Projects/Uni-SO/Files/mod3/Com_Sincro.pdf",
-    "1 Projects/Uni-SO/Files/mod2/Ficheros.pdf",
-    "1 Projects/Uni-SO/Notas gestión de procesos.md",
-    "1 Projects/Uni-SO/Mecanismos de sincronización.md",
-    "1 Projects/Uni-SO/FIFO.md",
-    "1 Projects/Uni-SO/Servicios del SO.md",
-    "1 Projects/Uni-SO/Mecanismos de comunicación.md",
-    "1 Projects/Uni-SO/Mecanismos de C&S.md",
-    "1 Projects/Uni-SO/Tareas concurrentes.md",
-    "1 Projects/Uni-SO/Servicios POSIX para hilos.md",
-    "1 Projects/Uni-SO/Files/mod3/Planficacion.pdf",
-    "1 Projects/Uni-SO/Notas/Notas Procesos Hilos.md",
-    "1 Projects/Uni-SO/Files/mod3/Procesos_Hilos.pdf",
-    "1 Projects/Uni-SO/Consideraciones para el uso de hilos.md",
-    "1 Projects/Uni-SO/Venajas del uso de hilos.md",
-    "1 Projects/Uni-SO/Hilos.md",
-    "1 Projects/Uni-SO/Grupos de procesos.md",
-    "1 Projects/Uni-SO/Sesiones.md",
-    "1 Projects/Uni-SO/Jerarquia de procesos Linux(Unix).md",
-    "1 Projects/Uni-SO/Linux.md",
-    "1 Projects/Uni-SO/Unix.md",
-    "1 Projects/Uni-SO/Exit.md",
-    "1 Projects/Uni-SO/Wait.md",
-    "1 Projects/Uni-SO/Exec.md",
-    "1 Projects/Uni-SO/Fork.md",
-    "1 Projects/Uni-SO/Servicios POSIX.md",
-    "1 Projects/Uni-SO/Cambio de programa.md",
-    "3 Resources/Imgs/Pasted image 20231028175546.png",
-    "3 Resources/Imgs/Pasted image 20231028175438.png",
-    "1 Projects/Uni-SO/Bloques indexados tipo UNIX.png",
-    "1 Projects/Uni-SO/Files/entorno.pdf",
-    "1 Projects/Uni-SO/Files/make.pdf",
-    "3 Resources/Imgs/Pasted image 20231028101647.png",
-    "1 Projects/Uni-SO/Files/mod2/Ficheros.pdf.crdownload",
-    "3 Resources/Imgs/Pasted image 20230930112634.png",
-    "3 Resources/Imgs/Pasted image 20230929164932.png",
-    "3 Resources/Imgs/Pasted image 20230929164647.png",
-    "3 Resources/Imgs/Pasted image 20230929162854.png",
-    "3 Resources/Imgs/Pasted image 20230929122327.png",
-    "3 Resources/Imgs/Pasted image 20230929122154.png"
+    "3 Resources/Entrepeneurship/Deep Dive With Ali Abdaal Season 6 Episode 13 Daniel Priestley.pdf",
+    "3 Resources/Entrepeneurship/Unconfirmed 560512.crdownload",
+    "3 Resources/Entrepeneurship",
+    "Excalidraw/Esquema DB Pike.excalidraw.md",
+    "1 Projects/PIKE/Notas MVP Pike.md",
+    "Excalidraw/Drawing 2023-11-16 08.54.46.excalidraw.md",
+    "Untitled Diagram.svg",
+    "Excalidraw/Arquitectura MVP Pike.excalidraw.md",
+    "1 Projects/PIKE",
+    "2 Areas/Uni-Estadísitca II/T1 Estadísitca/Notas T1 Estadísitica II.md",
+    "2 Areas/Uni-SO/Servicios POSIX para hilos.md",
+    "1 Projects/Notas Mod3 So/Notas Procesos Hilos.md",
+    "2 Areas/Uni-Estadísitca II/T1 Estadísitca/Tema 1. Modelos relacionados con la normal.pdf",
+    "3 Resources/Imgs/Pasted image 20231115173529.png",
+    "3 Resources/Imgs/Pasted image 20231115172217.png",
+    "3 Resources/Imgs/Pasted image 20231115170833.png",
+    "3 Resources/Imgs/Pasted image 20231115170720.png",
+    "2 Areas/Uni-Estadísitca II/Notas T0 Estadísitca/Apuntes T0 Estadística empresarial II.md",
+    "1 Projects/T3 Estadísitca/T3 Estadística.md",
+    "3 Resources/Product development/HEADWAY app catch form.md",
+    "2 Areas/Uni-Estadísitca II/Notas T0 Estadísitca/Tema_0.pdf",
+    "3 Resources/Product development",
+    "3 Resources/Pro.md",
+    "2 Areas/Untitled.md",
+    "1 Projects/Practica 3 TOC/Diapos P3 TOC.pdf",
+    "1 Projects/Practica 3 TOC/Notas P3 TOC.md",
+    "Excalidraw/diagrama comparador p3 toc.excalidraw.md",
+    "1 Projects/Practica 3 TOC/generate.pdf",
+    "1 Projects/Practica 3 TOC/Unconfirmed 251843.crdownload",
+    "1 Projects/Practica 3 TOC/Diapos P3 TOC.pdf.crdownload",
+    "1 Projects/Apuntes Libro IRPF/Apuntes Libro IRPF 1 1.md",
+    "1 Projects/P2 TOC.md",
+    "1 Projects/Fencing Olympics/ChatGPT Version Solution.md",
+    "1 Projects/Clase Estadística.md",
+    "Excalidraw/FSM P2a.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-15 10.33.55.excalidraw.md",
+    "2 Areas/Uni-SF1/a Notas T1 SF1.md",
+    "2 Areas/Uni-SF1/a Notas T0 Introducción.md",
+    "2 Areas/Uni-IS/aa Notas T1 IS.md",
+    "2 Areas/Uni-SF1/Residencia habitual.md",
+    "2 Areas/Uni-SF1/Domicilio fiscal.md",
+    "3 Resources/Imgs/Pasted image 20231113175520.png",
+    "3 Resources/Imgs/Pasted image 20231113175506.png",
+    "3 Resources/Imgs/Pasted image 20231110160906.png",
+    "3 Resources/Imgs/Pasted image 20231109203119.png",
+    "3 Resources/Imgs/Pasted image 20231109203056.png"
   ]
 }

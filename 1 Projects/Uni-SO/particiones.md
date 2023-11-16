@@ -1,1 +1,0 @@
-Una porción del disco a la que se la nota de una identidad propia y que puede ser manipulada por el [[SO]] como una entidad lógica independiente

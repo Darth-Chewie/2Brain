@@ -1,1 +1,0 @@
-Dicho de una persona: Que posee noticias o pruebas acerca de un asunto.

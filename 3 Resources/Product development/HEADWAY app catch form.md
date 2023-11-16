@@ -1,0 +1,2 @@
+* Te va haciendo preguntas y configurando la cuenta que te va a venir mejor **antes de obligar a crearte una cuenta**
+* Mueve la barrera de entrada a un punto donde como has rellenado un test, has invertido más en la app, mucho más probable que te crees la cuenta

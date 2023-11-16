@@ -1,1 +1,0 @@
-Máquina, portatil, movil, dispositivo de interconexión(ruter)

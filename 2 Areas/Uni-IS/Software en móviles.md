@@ -1,0 +1,1 @@
+* Software con  recursos limitados

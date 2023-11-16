@@ -1,0 +1,1 @@
+Se capturan datos de forma pasivo y se transmiten posteriormente para producir un efecto no autorizado

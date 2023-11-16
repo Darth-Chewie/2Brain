@@ -1,0 +1,1 @@
+https://www.electroschematics.com/ttp223-capacitive-touch-switch-circuit/

@@ -1,0 +1,1 @@
+Una acción es un conjunto de tareas relacionadas que produce un producto del trabajo o artefacto.

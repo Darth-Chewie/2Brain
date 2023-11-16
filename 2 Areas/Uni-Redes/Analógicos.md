@@ -1,0 +1,1 @@
+Toman valores continuos dentro de un intervalo

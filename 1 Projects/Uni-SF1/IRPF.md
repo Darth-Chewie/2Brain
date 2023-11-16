@@ -1,8 +1,0 @@
--  Tributo de carácter personal y directo que grava, según los principios de igualdad,generalidad y progresividad, la renta de las personas físicas, de acuerdo a su naturaleza y a las circunstanciaspersonales y familiares.
-- **Objeto**.  Renta del contribuyente = Rendimientos + G y P patrimoniales
-- **Cesión** del impuesto a las CCAA
-	- Cesión parcial del **rendimiento** del IRPF producido en el territorio de la CA, con el límite máximo del 55%
-	- Cesión parcial de ciertas **competencias** normativas de regulación en la parte autonómica del impuesto.
-- Ámbito de aplicación:
-	- todo el territorio español  sin perjuicio de los regímenes tributarios forales ylos Convenios Internacionales
-	- Canarias, Ceuta y Melilla se tienen en cuenta sus especialidades

@@ -1,1 +1,0 @@
-Registrors, declaraciones de hecho o cualquier otra información que son **pertinentes** según el [[referente de auditoría]] y que son **verificables**

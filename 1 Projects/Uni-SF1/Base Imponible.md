@@ -1,6 +1,0 @@
-- Cuantificación del hecho imponible
-- Cálculo:
-	- Estimación Directa: documentos, **obligatorio** o **voluntario**
-	- Estimación Objetiva: magnitudes, indices, móduclos, **voluntario**
-	- Estimación Indirecta: datos, antecedentes,  **subsidiario**
-- Base Liquidable = Base Imponible – Reducciones
