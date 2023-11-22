@@ -52,4 +52,84 @@
 	* Actualiza estadísticas para el algoritmo de planificación
 	* Comprueba si le toca planificar otro proceso
 2. Por el tratamiento de la interrupción de algún dispositivo [[E-S|E/S]]
-3. Por una 
+3. Por una excepción provocada por el proceso en ejecución
+	* Que lo bloquea
+	* Que fuerza su terminación
+	* Que termina voluntariamente el proceso de ejecución
+	* Que cede voluntariamente el procesador
+	* Que desbloquea y crea otro proceso
+4. Porque se desbloquea un proceso más importante que el actual
+	* Sucede realmente por alguno de los mecanismos anteriores
+
+## Cambio de contexto
+* Acciones realizadas por el [[SO]] para cambiar el proceso en ejecución en una [[CPU]]
+	* Salvar el contexto del proceso saliente (registros -> [[Bloque de control de procesos|BCP]])
+	* Cambiar el estado del proceso saliente ( En efecución -> Otro)
+	* Configurar la [[Unidad de gestión de memoria  | MMU]]  para el espacio de direcciones del proceso entranteç
+		* Segmentos o regiones de [[Memoria || memoria]]h que puede usar
+		* Punteros a la tabla de páginas
+		* Flush de [[Translation Lookaside Buffer | TLB]]
+	* Cambiar el estado del proceso entrante (Listo -> En ejecución)
+	* Restaurar su contexto ([[Bloque de control de procesos|BCP]] -> registros)
+	* Realizar el entorno de Interrupción para continuar la ejecución del proceso (modo usuario)
+* Puede llegar a ser una operación bastante costosa
+
+## Planificación de procesos
+* Objetivos 
+	* Optimizar el uso de la [[CPU]]
+	* Minimizar el tiempo de espera
+	* Justicia -> ofrecer reparto equitativo
+	* Prioridades -> proporcionar grados de urgencia
+* Métricas
+	* Parámetros por entidad (proceso o hilo)
+		* Tiempo de ejecución (turnaround) : creación - terminación
+		* Tiempo de espera: tiempo total lista y sin [[CPU]]
+		* Tiempo de respuesta: creación - 1er uso de [[CPU]]
+	* Parámetros globales
+		* % de utilización del procesador
+		* Justicia: equitatividad en el reparto de [[CPU]]
+		* Productividad: número de trabajos completados por unidad de tiempo
+
+## Algoritmos de planificación de procesos
+
+* Tipos:
+	* Algoritmos no expropiativos
+		* El proceso en ejecucuón conserva la [[CPU]] hasta que 
+			* Se bloquea
+			* Cede expresamente la [[CPU]]
+			* Termina su ejecución
+		* Algoritmos:
+			* [[First Come First Served]]
+			* [[Shortest Job First]]
+			* [[Basado en prioridades]]
+	* Algoritmos expropiativos
+		* Cuando el planificador lo considera pertinente, cambia el proceso/hilo que hay ejecutando por otro
+			* La decisión depende del algoritmo de planificación
+		* Más adecuados para [[SO]] de propósito general
+		* Manejan bien mezclas de trabajos interactivos y trabajos intensivos en [[CPU]]
+		* Algoritmos:
+			* [[Round Robin]]
+			* [[Shortest Remaining Tiem First]]
+			* [[Expropiativo basado en prioridades]]
+
+## Colas Multinivel con retroalimentación
+* Motivación: 
+	* Reducir el tiempo de ejecución medio (turnaround)
+		* Como lo hace la [[Shortest Job First|SJF]]
+		* Sin conocer a priory el tiempo de ejecucción medio de cada tarea
+		* El sistema debe aprender las características de cada tarea
+	* Queremos reducir el tiempo de respuesta
+		* Como lo hace la [[Round Robin]]
+		* Importante para tareas intetactivas
+	* Objetivos contrapuestos
+* Reglas básicas
+	* Varias colas con distinto nivel de prioridad
+	* La prioridad de un proceso es la de la cola a la que está asignado
+	* Si Prioridad(A) > prioridad(B), A se ejecuta y B no
+	* Si prioridad(A) == Prioridad(B) se utiliza [[Round Robin]] para planificar la ejecución de A y B
+* Tareas con prioridad dinámica
+	* Variar la prioridd de las tareas en función de su comportamiento
+		* Si un trabajo repetidamente libera la [[CP]] bloqueándose por [[E-S|E/S]] debemos asignarle alta prioridad
+		* Si una tarea repetidamente usa la [[CPU]] de forma intensiva por largos periodos de tiempo, debemos asignarle menos prioridad
+	* MLFQ intenta aprender de los procesos mientras se ejecutan,asuando así su historia para predecir su comportamiento
+* Asignación de prioridades: intento 1

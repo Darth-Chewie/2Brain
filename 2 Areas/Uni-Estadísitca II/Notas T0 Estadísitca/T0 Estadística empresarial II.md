@@ -2,7 +2,7 @@
 * En inferencia estadísitca es esencial distinguir entre descriptores de población y muestra
 	* Población: letras griegas
 	* Muestra: letras latinas
- 
+
 Cantidad | Población | Muestra
 -- | -- | --
 Media o Valor esperado | $\mu$ | $\overline{x}$
